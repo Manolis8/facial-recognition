@@ -1,2 +1,0 @@
-# facial-recognition
-facial recognition
