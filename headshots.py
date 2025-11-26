@@ -1,6 +1,6 @@
 import cv2
 
-name = 'Manolis' #replace with your name
+name = 'Mike' #replace with your name
 
 cam = cv2.VideoCapture(0)
 
